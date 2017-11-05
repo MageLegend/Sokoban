@@ -5,3 +5,4 @@ Sokoban is a puzzle game that was originally made in 1982. Slightly longer than 
 If you wish to use this code for your own benefit/personal use, like using it for your own college assignments for example, then i won't stop you, but please don't take this code, post it elsewhere and claim it as your own. I do not own the rights to the idea of Sokoban itself, nor to any of the sprites and images used in this project.
 
 This project was made in Java, with the use of JavaFX for the creation of a UI, using the MVP (Model-View-Presenter) design pattern.
+Keep in mind that some directory, class, variable and method names are written in Dutch.
